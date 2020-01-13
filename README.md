@@ -1,2 +1,1 @@
-# wx_calendar
-小程序日历插件
+# wx_calendar（小程序日历插件）
