@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/treadpit/wx_calendar.svg?branch=master)](https://travis-ci.org/treadpit/wx_calendar)
-![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/treadpit/wx_calendar?style=flat-square)
-
 # 小程序日历
 
 ### 引入组件
@@ -39,7 +36,7 @@ const conf = {
 Page(conf);
 ```
 
-更多自定义配置及功能 [请查阅日历文档](https://treadpit.github.io/wx_calendar)
+更多自定义配置及功能 [请查阅日历文档](https://15234477664.github.io/wx_calendar)
 
 ### 效果图
 
